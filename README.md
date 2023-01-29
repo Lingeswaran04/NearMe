@@ -41,7 +41,7 @@ map.html
 </body>
 </html>
 
-bus.html
+jipmer.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -157,12 +157,13 @@ The uses of Washerman's Lake in Pondicherry District are
 ```
 
 ## Output:
+![output](./screenshots/out6.png)
 ![output](./screenshots/out1.png)
 ![output](./screenshots/out2.png)
 ![output](./screenshots/out3.png)
 ![output](./screenshots/out4.png)
 ![output](./screenshots/out5.png)
-![output](./screenshots/out6.png)
+
 
 ## HTML validator
 ![HTML validator](./screenshots/valid.png)
